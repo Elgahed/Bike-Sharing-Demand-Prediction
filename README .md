@@ -1,21 +1,21 @@
 
-# 🚲 Bike Sharing Demand Prediction
+ Bike Sharing Demand Prediction
 
 This project focuses on predicting the hourly demand for bike rentals using regression models. The dataset includes environmental and temporal features like temperature, humidity, season, and time of day.
 
-## ✅ Project Overview
+ ✅ Project Overview
 
 - **Goal:** Predict the number of bike rentals per hour.
 - **Type:** Supervised Machine Learning (Regression)
 - **Metric:** Root Mean Squared Error (RMSE)
 
-## 🛠️ Tools & Technologies
+ Tools & Technologies
 
 - Python, Pandas, NumPy
 - Scikit-learn
 - Matplotlib, Seaborn
 
-## 🧪 Workflow
+ Workflow
 
 1. **Exploratory Data Analysis (EDA)**
 2. **Feature Engineering**
@@ -23,17 +23,17 @@ This project focuses on predicting the hourly demand for bike rentals using regr
 4. **Evaluation using RMSE**
 5. **Model Comparison & Optimization**
 
-## 📊 Results
+ Results
 
 Achieved accurate predictions with low RMSE using ensemble regression models after feature transformation and hyperparameter tuning.
 
-## 📁 Files
+ Files
 
 - `BikesProject.ipynb` - Full code notebook with all steps
 - `README.md` - Project description
 
-## 📌 Author
+ Author
 
-**Mohamed Hossam Ibrahim**  
+**Mohamed Hossam Elgahed**  
 Bachelor’s in Computer Science – Egyptian E-Learning University  
 Interested in Machine Learning and Data Science
